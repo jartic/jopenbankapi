@@ -1,2 +1,2 @@
 # jopenbankapi
-Privat bank Open Data API
+Privatbank (Privatbank, Pb24, Pb - Registered trademark, TM) (UA) Open Data API.
